@@ -1,7 +1,0 @@
-- 1
-- 12
-- 133
-- 14
-- 25
-- 4
-- {address: Dulwichhill, age: 26, myname: Ashanish}

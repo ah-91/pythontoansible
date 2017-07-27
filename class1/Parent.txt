@@ -1,0 +1,5 @@
+crypto map CRYPTO 10 ipsec-isakmp 
+crypto map CRYPTO 20 ipsec-isakmp 
+crypto map CRYPTO 30 ipsec-isakmp 
+crypto map CRYPTO 40 ipsec-isakmp 
+crypto map CRYPTO 50 ipsec-isakmp 
